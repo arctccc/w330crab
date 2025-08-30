@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
+
+* {
+    -webkit-user-drag: none;
+}
+
+html,
+body {
+    height: 100%;
+
+    font-size: 18px;
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+
+    overflow-y: hidden;
+}
+
+body {
+    background-color: #333333;
+    background-image: url(img/bg.png);
+    background-size: cover;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+    margin: 0;
+    box-shadow: inset 0 0 50em 5em #000;
+}
+
+h1 {
+    margin: 0 0 0.3rem 0;
+    text-shadow: 0.05rem 0.05rem black;
+    color: #e9e9e9;
+}
+
+p {
+    margin: 0 0 0.1rem 0;
+}
+
+#crab {
+    position: absolute;
+    width: 70%;
+    height: 70%;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+
+    background-image: url(img/crab.png);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+main {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+
+    filter: drop-shadow(0 0 10rem black);
+}
+
+#about, nav > a {
+    display: block;
+    padding: 1rem 1.5rem;
+
+    background: #e9e9e9;
+    border-radius: 0.5rem;
+
+    box-shadow: 0.05rem 0.05rem 0 0.05rem #000;
+}
+
+nav {
+    margin-top: 0.7rem;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: flex-end;
+    gap: 0.7rem;
+}
+
+nav > a {
+    height: 1.2rem;
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+    gap: 1rem;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 1.1em;
+}
+
+nav > a:hover {
+    filter: brightness(1.2);
+}
+
+nav > a:active {
+    filter: brightness(0.9);
+}
+
+nav > a > img {
+    height: 100%;
+}
+
+#discord {
+    background: #5964f2;
+}
+
+#gallery {
+    background: #f29659;
+}
+

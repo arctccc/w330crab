@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- created by svgstack.com | Attribution is required. -->
+
+<svg
+   width="199.86359"
+   height="154.83861"
+   viewBox="0 0 199.86359 154.83861"
+   fill="none"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="discord.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="7.4679487"
+     inkscape:cx="99.558799"
+     inkscape:cy="77.732189"
+     inkscape:window-width="3440"
+     inkscape:window-height="1368"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <g
+     clip-path="url(#clip0_106_1870)"
+     id="g1"
+     style="fill:#ffffff"
+     transform="translate(-0.920166,-0.275391)">
+    <path
+       d="M 170.224,13.2429 C 157.286,7.185 143.452,2.78212 128.99,0.275391 127.214,3.48915 125.139,7.81165 123.709,11.2504 108.334,8.93649 93.1015,8.93649 78.0105,11.2504 76.5802,7.81165 74.4576,3.48915 72.666,0.275391 58.1878,2.78212 44.3385,7.20107 31.401,13.2751 5.30587,52.74 -1.76809,91.2251 1.76889,129.163 c 17.30771,12.936 34.08081,20.793 50.57101,25.935 4.0715,-5.608 7.7028,-11.569 10.8311,-17.852 -5.9579,-2.266 -11.6642,-5.062 -17.0562,-8.308 1.4305,-1.06 2.8296,-2.169 4.1816,-3.31 32.8863,15.394 68.6176,15.394 101.1106,0 1.367,1.141 2.767,2.25 4.182,3.31 -5.408,3.262 -11.13,6.058 -17.088,8.324 3.128,6.267 6.744,12.244 10.831,17.852 16.506,-5.142 33.295,-12.999 50.602,-25.951 4.151,-43.9799 -7.089,-82.1114 -29.71,-115.9201 z M 67.6511,105.832 c -9.872,0 -17.9678,-9.2243 -17.9678,-20.456 0,-11.2322 7.9228,-20.4716 17.9678,-20.4716 10.0452,0 18.1407,9.2233 17.9678,20.4716 0.0161,11.2317 -7.9226,20.456 -17.9678,20.456 z m 66.4009,0 c -9.872,0 -17.968,-9.2243 -17.968,-20.456 0,-11.2322 7.923,-20.4716 17.968,-20.4716 10.045,0 18.141,9.2233 17.968,20.4716 0,11.2317 -7.923,20.456 -17.968,20.456 z"
+       fill="#5865F2"
+       id="path1"
+       style="fill:#ffffff" />
+  </g>
+  <defs
+     id="defs1">
+    <clipPath
+       id="clip0_106_1870">
+      <rect
+         width="200"
+         height="154.839"
+         fill="#ffffff"
+         transform="translate(0.920166,0.275391)"
+         id="rect1"
+         x="0"
+         y="0" />
+    </clipPath>
+  </defs>
+</svg>

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <link rel="stylesheet" href="styles.css">
+
+        <style>
+            #photoswipe-container {
+                padding: 2rem;
+                box-sizing: border-box;
+                height: 100%;
+                overflow-y: auto;
+            }
+        </style>
+
+        <link rel="stylesheet" href="photoswipe/photoswipe.css">
+        <script type="module">
+            import PhotoSwipeLightbox from './photoswipe/photoswipe-lightbox.esm.js';
+            const lightbox = new PhotoSwipeLightbox({
+                gallery: '#photoswipe',
+                children: 'a',
+                pswpModule: () => import('./photoswipe/photoswipe.esm.js'),
+            });
+            lightbox.init();
+        </script>
+    </head>
+    <body>
+        <div id="photoswipe-container">
+            <div id="photoswipe">
+                <a href="gallery/drop-party-1.png"
+                data-pswp-width="470" 
+                data-pswp-height="685" 
+                target="_blank">
+                    <img src="gallery/drop-party-1.png"
+                    alt="Drop party"
+                    width="235"
+                    height="342" />
+                </a>
+
+                <a href="gallery/drop-party-2.png" 
+                data-pswp-width="596" 
+                data-pswp-height="793" 
+                target="_blank">
+                    <img src="gallery/drop-party-2.png"
+                    alt="Drop party"
+                    width="298"
+                    height="396" />
+                </a>
+            </div>
+        </div>
+    </body>
+</html>
